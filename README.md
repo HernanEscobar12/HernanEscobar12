@@ -1,6 +1,6 @@
 <h1 align="left">Bienvenido <h1>
 <h2 align="center">Hola👋, Soy Hernan</h2>
-<h3 align="center"> Desarrollador.NET con 1 ½ año de Experiencia esudiando programación , Autodidacta y en la Universidad Tecnológica Nacional</h4>
+<h3 align="center"> Desarrollador.NET con 2 años de Experiencia esudiando programación , Autodidacta y en Universidad Tecnológica Nacional [Tecnicatura en Programación ]</h4>
 <hr>
 <p aling="Center"> Durante mi experiencia trabaje con casi todas las tecnologías de Microsoft, tanto aplicaciones de Escritorio como WEB en WebForm y MVC, tengo dominio de HTML, JavaScript, JQUERY, CCS y BOOSTRAPT en cuanto a lo que es Frontend y mi fuerte es el Backend donde domino C# y he desarrollado tanto servicios Crud. En cuanto a acceso a datos trabajo con ADO NET, Entity Framework, por otro lado tengo fuertes conocimientos en Base de Datos SQL Server, utilizando stored procedure. En cuanto a repositorios trabaje con GIT. </p>
 <hr>
